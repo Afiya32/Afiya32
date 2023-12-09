@@ -21,3 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afiya32&show_icons=true&locale=en&layout=compact" alt="afiya32" /></p>
 
+![Biplob Hossain's GitHub stats](https://github-readme-stats.vercel.app/api?username=biplob&show_icons=true&theme=radical)
