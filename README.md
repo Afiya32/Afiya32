@@ -1,4 +1,5 @@
-[![Watch the video](https://github.com/Afiya32/Afiya32/blob/main/biplob%20hossain.png)](https://github.com/Afiya32/Afiya32/blob/main/biplob%20hossain.mp4)
+![logo](https://github.com/Afiya32/Afiya32/blob/main/banner.jpg)
+![Watch the video](https://github.com/Afiya32/Afiya32/blob/main/biplob%20hossain.mp4)
 
 <h1 align="center">Hi 👋, I'm Biplob Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
